@@ -1,10 +1,11 @@
 ## Welcome to KuiJiang's homepage
 
-Google Scholar(https://guides.github.com/features/mastering-markdown/)
+[Google Scholar](https://scholar.google.com/citations?user=AbOLE9QAAAAJ&hl=zh-CN)
 
-wangz(at)nii.ac.jp / wangzwhu(at)gmail.com
-Shin’ichi Satoh Laboratory, National Institute of Informatics (NII), 2-1-2 Hitotsubashi, Chiyoda-ku, Tokyo 101-8430, Japan
-I am currently a JSPS Fellowship Researcher at Satoh-Lab, NII, Japan, collaborating with Prof. Shin’ichi Satoh. In Sep. 2017-Sep. 2018, I was a Project Researcher under the support of JST CREST project. In Jun. 2017, I received my Ph.D. at National Engineering Research Center for Multimedia Software (NERCMS), Wuhan University with honors, under the supervision of Prof. Ruimin Hu. My research interests focus on person re-identification and instance search.
+kuijiang@whu.edu.cn / kuijiang_1994(at)163.com
+[National Engineering Research Center for Multimedia Software (NERCMS)](http://en.multimedia.whu.edu.cn/html/Faculties/), Wuhan University, Luojia Hill, Wuchang District, Wuhan 430072, Hubei, China 
+
+I am currently a Ph.D. at NERCMS, Wuhan University, Wuhan, China. In Jun. 2019, I received my M.S. at National Engineering Research Center for Multimedia Software (NERCMS), Wuhan University, under the supervision of Prof. Zhongyuan Wang. My research interests focus on image/video reconstruction, image deraining, and face hallucination.
 
 ### Markdown
 
