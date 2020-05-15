@@ -42,42 +42,18 @@ I am currently a Ph.D. at [(NERCMS)](http://en.multimedia.whu.edu.cn/html/Facult
 
 ## Projects
 ****
+
 ## Honors
 ****
+
 ## Services
+- PC Member/Reviewer: ICME 2020
+- Reviewer: IEEE TGRS, ACM TOMM, Neurocomputing, IEEE Access, IEEE SPL, GRSL
 ****
-## Colaborators
-****
+
+## Collaborators
+[Junjun Jiang](https://jiangjunjun.wordpress.com/) (HIT), [Chen Chen](https://ece.uncc.edu/directory/dr-chen-chen-phd) (UNC Charlotte), [Yimin Luo](https://dblp.uni-trier.de/pers/hd/l/Luo:Yimin) (King’s College London)
+
 ## Referees
+[Zhongyuan Wang](https://dblp.uni-trier.de/pers/hd/w/Wang:Zhongyuan) (WHU),
 ****
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kuihua/kuijiang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
