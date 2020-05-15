@@ -1,7 +1,7 @@
 ## Welcome to KuiJiang's homepage
 KuiJiang (江奎)/NERCMS, Wuhan University
 
-![Image](/kuijiang.jpg width="200" height="200")
+<img src="kuijiang.jpg" width = "200" height = "300" alt="" align=center />
 
 [Google Scholar](https://scholar.google.com/citations?user=AbOLE9QAAAAJ&hl=zh-CN)
 
