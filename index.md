@@ -16,9 +16,13 @@ I am currently a Ph.D. at [(NERCMS)](http://en.multimedia.whu.edu.cn/html/Facult
 ### Selected Publications (* indicates the corresponding author)
 
 #### Image/Video Reconstruction
-- Wang, Zhongyuan, Yi, Peng, **Jiang, Kui**, Jiang, Junjun, Han, Zhen, Lu, Tao, Ma, Jiayi, [Multi-memory convolutional neural network for video super-resolution](https://ieeexplore.ieee.org/abstract/document/8579237/), _**IEEE TIP**_, 2018
-- **Jiang, Kui**, Wang, Zhongyuan, Yi, Peng, Jiang, Junjun, Xiao, Jing, Yao, Yuan, [Deep distillation recursive network for remote sensing imagery super-resolution](https://www.mdpi.com/2072-4292/10/11/1700), _**Remote Sensing**_, 2018
-- **Jiang, Kui**, Wang, Zhongyuan, Yi, Peng, Jiang, Junjun, [A progressively enhanced network for video satellite imagery superresolution](https://ieeexplore.ieee.org/abstract/document/8466642), _**IEEE SPL**_, 2018, [code](https://github.com/kuihua/PECNN)
+- Gu S, Danelljan M, Timofte R, _et al_, [Aim 2019 challenge on image extreme super-resolution: Methods and results](https://ieeexplore.ieee.org/abstract/document/9022627), _**ICCV Workshop**_, 2019, _AIM 2019 challenge on extreme image super-resolution-2th_
+- Nah S, Timofte R, Gu S, _et al_, [NTIRE 2019 Challenge on Video Super-Resolution: Methods and Results](https://ieeexplore.ieee.org/document/9025527), _**CVPR Workshop**_, 2019, _NTIRE challenge on video super-resolution-5th_
+- **K Jiang**, Z Wang, P Yi, J Jiang, G Wang, Z Han, T Lu,, [GAN-based multi-level mapping network for satellite imagery super-resolution](https://ieeexplore.ieee.org/abstract/document/8784713/), _**ICME**_, 2019
+- **K Jiang**, Z Wang, P Yi, G Wang, T Lu, J Jiang, [Edge-enhanced GAN for remote sensing image superresolution](https://ieeexplore.ieee.org/abstract/document/8677274), _**IEEE T-GRS**_, 2019, [code](https://github.com/kuihua/EEGAN)
+- Z Wang, P Yi, **K Jiang**, J Jiang, Z Han, T Lu, J Ma, [Multi-memory convolutional neural network for video super-resolution](https://ieeexplore.ieee.org/abstract/document/8579237/), _**IEEE T-IP**_, 2018
+- **K Jiang**, Z Wang, P Yi, J Jiang, J Xiao, Y Yao, [Deep distillation recursive network for remote sensing imagery super-resolution](https://www.mdpi.com/2072-4292/10/11/1700), _**Remote Sensing**_, 2018, [code](https://github.com/kuihua/DDRN)
+- **K Jiang**, Z Wang, P Yi, J Jiang, [A progressively enhanced network for video satellite imagery superresolution](https://ieeexplore.ieee.org/abstract/document/8466642), _**IEEE SPL**_, 2018, [code](https://github.com/kuihua/PECNN)
 
 
 #### Image Deraining
