@@ -1,7 +1,8 @@
 ## Welcome to KuiJiang's homepage
 KuiJiang (江奎)/NERCMS, Wuhan University
 
-<a href="url"><img src="https://github.com/kuihua/kuijiang.github.io/blob/master/kuijiang.jpg" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/kuihua/kuijiang.github.io/blob/master/kuijiang.jpg" align="left" height="250" width="250" ></a>
+
 [Google Scholar](https://scholar.google.com/citations?user=AbOLE9QAAAAJ&hl=zh-CN)
 
 kuijiang@whu.edu.cn / kuijiang_1994@163.com
