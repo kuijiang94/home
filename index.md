@@ -1,5 +1,5 @@
 # Welcome to KuiJiang's homepage
-====
+
 KuiJiang (江奎)/[(NERCMS)](http://en.multimedia.whu.edu.cn/html/Faculties/), Wuhan University
 
 <a href="url"><img src="https://github.com/kuihua/kuijiang.github.io/blob/master/kuijiang1.jpg" align="left" height="250" width="250" ></a>
@@ -16,7 +16,7 @@ I am currently a Ph.D. at [(NERCMS)](http://en.multimedia.whu.edu.cn/html/Facult
 ### Selected Publications (* indicates the corresponding author)
 
 #### Image/Video Reconstruction
-- Jiang, Kui and Wang, Zhongyuan and Yi, Peng and Jiang, Junjun. [A progressively enhanced network for video satellite imagery superresolution](https://ieeexplore.ieee.org/abstract/document/8466642). IEEE SPL, 2018
+- `Jiang, Kui`, Wang, Zhongyuan, Yi, Peng, Jiang, Junjun, [A progressively enhanced network for video satellite imagery superresolution](https://ieeexplore.ieee.org/abstract/document/8466642). `IEEE SPL`, 2018
 -
 -
 -
