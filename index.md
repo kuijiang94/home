@@ -1,5 +1,5 @@
 ## Welcome to KuiJiang's homepage
-KuiJiang (江奎)/NERCMS, Wuhan University
+KuiJiang (江奎)/[(NERCMS)](http://en.multimedia.whu.edu.cn/html/Faculties/), Wuhan University
 
 <a href="url"><img src="https://github.com/kuihua/kuijiang.github.io/blob/master/kuijiang.jpg" align="left" height="250" width="250" ></a>
 
