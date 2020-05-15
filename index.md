@@ -1,4 +1,6 @@
 ## Welcome to KuiJiang's homepage
+KuiJiang (江奎)/NERCMS, Wuhan University
+![Image](/kuijiang.jpg)
 
 [Google Scholar](https://scholar.google.com/citations?user=AbOLE9QAAAAJ&hl=zh-CN)
 
@@ -8,6 +10,22 @@ kuijiang@whu.edu.cn / kuijiang_1994@163.com
 
 I am currently a Ph.D. at [(NERCMS)](http://en.multimedia.whu.edu.cn/html/Faculties/), Wuhan University, Wuhan, China. In Jun. 2019, I received my M.S. at National Engineering Research Center for Multimedia Software (NERCMS), Wuhan University, under the supervision of Prof. Zhongyuan Wang. My research interests focus on image/video reconstruction, image deraining, and face hallucination.
 ****
+
+### Selected Publications (* indicates the corresponding author)
+
+#### Image/Video Reconstruction
+-
+-
+-
+-
+
+#### Image Deraining
+-
+-
+-
+#### Face Hallucination
+-
+-
 
 ### Markdown
 
