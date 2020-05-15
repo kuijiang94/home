@@ -16,10 +16,10 @@ I am currently a Ph.D. at [(NERCMS)](http://en.multimedia.whu.edu.cn/html/Facult
 ### Selected Publications (* indicates the corresponding author)
 
 #### Image/Video Reconstruction
-- **Jiang, Kui**, Wang, Zhongyuan, Yi, Peng, Jiang, Junjun, [A progressively enhanced network for video satellite imagery superresolution](https://ieeexplore.ieee.org/abstract/document/8466642). **IEEE SPL**, 2018, [code](https://github.com/kuihua/PECNN)
--
--
--
+- Wang, Zhongyuan, Yi, Peng, **Jiang, Kui**, Jiang, Junjun, Han, Zhen, Lu, Tao, Ma, Jiayi, [Multi-memory convolutional neural network for video super-resolution](https://ieeexplore.ieee.org/abstract/document/8579237/), **IEEE TIP**, 2018
+- **Jiang, Kui**, Wang, Zhongyuan, Yi, Peng, Jiang, Junjun, Xiao, Jing, Yao, Yuan, [Deep distillation recursive network for remote sensing imagery super-resolution](https://www.mdpi.com/2072-4292/10/11/1700), **Remote Sensing**, 2018
+- **Jiang, Kui**, Wang, Zhongyuan, Yi, Peng, Jiang, Junjun, [A progressively enhanced network for video satellite imagery superresolution](https://ieeexplore.ieee.org/abstract/document/8466642), **IEEE SPL**, 2018, [code](https://github.com/kuihua/PECNN)
+
 
 #### Image Deraining
 -
