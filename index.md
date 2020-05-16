@@ -55,5 +55,5 @@ I am currently a Ph.D. at [(NERCMS)](http://en.multimedia.whu.edu.cn/html/Facult
 [Junjun Jiang](https://jiangjunjun.wordpress.com/) (HIT), [Chen Chen](https://ece.uncc.edu/directory/dr-chen-chen-phd) (UNC Charlotte), [Yimin Luo](https://dblp.uni-trier.de/pers/hd/l/Luo:Yimin) (King’s College London)
 
 ## Referees
-[Zhongyuan Wang](https://dblp.uni-trier.de/pers/hd/w/Wang:Zhongyuan) (WHU),
+[Zhongyuan Wang](https://dblp.uni-trier.de/pers/hd/w/Wang:Zhongyuan) (WHU)
 ****
