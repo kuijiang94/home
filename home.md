@@ -16,6 +16,7 @@ I am currently a Ph.D. at [(NERCMS)](http://en.multimedia.whu.edu.cn/html/Facult
 ### Selected Publications (* indicates the corresponding author)
 
 #### Image/Video Reconstruction
+- **K Jiang**, Z Wang, P Yi, J Jiang, [Hierarchical Dense Recursive Network for Image Super-Resolution](10.1016/j.patcog.2020.107475), _**PR**_, 2020, (early accept)
 - P Yi, Z Wang, **K Jiang**, J Jiang, J Ma, [Progressive Fusion Video Super-Resolution Network via Exploiting Non-Local Spatio-Temporal Correlations](https://ieeexplore.ieee.org/document/9009484/), _**ICCV**_, 2019, [code](https://github.com/psychopa4/PFNL)
 - Z Wang, **K Jiang**, P Yi, Z Han, Z He, [Ultra-dense GAN for satellite imagery super-resolution](https://www.sciencedirect.com/science/article/abs/pii/S0925231219314602), _**Neurocomputing**_, 2019
 - P Yi, Z Wang, **K Jiang**, Z Shao, J Ma, [Multi-temporal ultra dense memory network for video super-resolution](https://ieeexplore.ieee.org/abstract/document/8752034/), _**IEEE T-CSVT**_, 2019
