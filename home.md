@@ -32,6 +32,7 @@ I am currently a Ph.D. at [(NERCMS)](http://en.multimedia.whu.edu.cn/html/Facult
 #### Image Deraining
 - **K Jiang**, Z Wang, P Yi, C Chen, B Huang, Y Luo, J Ma, J Jiang, [Multi-Scale Progressive Fusion Network for Single Image Deraining](https://arxiv.org/abs/2003.10985), _**CVPR**_, 2020, [code](https://github.com/kuihua/MSPFN)
 - **K Jiang**, Z Wang, P Yi, C Chen, Y Yang, X Tian, J Jiang, [Attention-Guided Deraining Network Via Stage-Wise Learning](https://ieeexplore.ieee.org/abstract/document/9053754), _**ICASSP**_, 2020
+- X Wang, J Chen, **K Jiang**, Z Han, W Ruan, Z Wang, C Liang, [Single Image De-raining Via Clique Recursive Feedback Mechanism](https://www.sciencedirect.com/science/article/abs/pii/S0925231220312133), _**Neurocomputing**_, 2020
 
 #### Face Hallucination
 - Z Wang, G Wang, B Huang, Z Xiong, Q Hong, H Wu, P Yi, **K Jiang**, N Wang, Y Pei, _et al_, [Masked Face Recognition Dataset and Application](https://arxiv.org/abs/2003.09093), _**arXiv**_, 2020
