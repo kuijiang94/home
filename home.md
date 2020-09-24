@@ -16,7 +16,7 @@ I am currently a Ph.D. at [(NERCMS)](http://en.multimedia.whu.edu.cn/html/Facult
 ### Selected Publications (* indicates the corresponding author)
 
 #### Image/Video Reconstruction
-- **K Jiang**, Z Wang, P Yi, J Jiang, [Hierarchical Dense Recursive Network for Image Super-Resolution](https://www.sci-hub.ren/10.1016/j.patcog.2020.107475), _**PR**_, 2020, (early accept)
+- **K Jiang**, Z Wang, P Yi, J Jiang, [Hierarchical Dense Recursive Network for Image Super-Resolution](https://www.sci-hub.ren/10.1016/j.patcog.2020.107475), _**PR**_, 2020
 - P Yi, Z Wang, **K Jiang**, J Jiang, J Ma, [Progressive Fusion Video Super-Resolution Network via Exploiting Non-Local Spatio-Temporal Correlations](https://ieeexplore.ieee.org/document/9009484/), _**ICCV**_, 2019, [code](https://github.com/psychopa4/PFNL)
 - Z Wang, **K Jiang**, P Yi, Z Han, Z He, [Ultra-dense GAN for satellite imagery super-resolution](https://www.sciencedirect.com/science/article/abs/pii/S0925231219314602), _**Neurocomputing**_, 2019
 - P Yi, Z Wang, **K Jiang**, Z Shao, J Ma, [Multi-temporal ultra dense memory network for video super-resolution](https://ieeexplore.ieee.org/abstract/document/8752034/), _**IEEE T-CSVT**_, 2019
@@ -36,7 +36,7 @@ I am currently a Ph.D. at [(NERCMS)](http://en.multimedia.whu.edu.cn/html/Facult
 
 #### Face Hallucination
 - Z Wang, G Wang, B Huang, Z Xiong, Q Hong, H Wu, P Yi, **K Jiang**, N Wang, Y Pei, _et al_, [Masked Face Recognition Dataset and Application](https://arxiv.org/abs/2003.09093), _**arXiv**_, 2020
-- **K Jiang**, Z Wang, P Yi, G Wang, K Gu, J Jiang, [ATMFN: Adaptive-threshold-based Multi-model Fusion Network for Compressed Face Hallucination](https://ieeexplore.ieee.org/abstract/document/8936424), _**IEEE T-MM**_, 2019, [code](https://github.com/kuihua/ATMFN)
+- **K Jiang**, Z Wang, P Yi, G Wang, K Gu, J Jiang, [ATMFN: Adaptive-threshold-based Multi-model Fusion Network for Compressed Face Hallucination](https://ieeexplore.ieee.org/abstract/document/8936424), _**IEEE T-MM**_, 2020, [code](https://github.com/kuihua/ATMFN)
 
 #### Medical Image Processing
 - Y Luo, Toth D, **K Jiang***, K Pushparajah, R Kuberan, [Ultra-DenseNet for Low-Dose X-Ray Image Denoising in Cardiac Catheter-Based Procedures](https://link.springer.com/chapter/10.1007/978-3-030-39074-7_4), _**MICCAI**_, 2019
