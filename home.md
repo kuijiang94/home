@@ -49,8 +49,8 @@ I am currently a Ph.D. at [(NERCMS)](http://en.multimedia.whu.edu.cn/html/Facult
 ****
 
 ## Services
-- PC Member/Reviewer: ICME 2020, BigMM 2020
-- Reviewer: IEEE TGRS, ACM TOMM, Neurocomputing, IEEE Access, IEEE SPL, GRSL
+- PC Member/Reviewer: ICME 2020, BigMM 2020, AAAI 2021
+- Reviewer: IEEE TGRS, ACM TOMM, IEEE-CAA Journal of Automatica Sinica，IEEE Wireless Communications Magazine， Neurocomputing, IEEE SPL, GRSL
 ****
 
 ## Collaborators
