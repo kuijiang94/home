@@ -35,6 +35,7 @@ I am currently a Ph.D. at [(NERCMS)](http://en.multimedia.whu.edu.cn/html/Facult
 - X Wang, J Chen, **K Jiang**, Z Han, W Ruan, Z Wang, C Liang, [Single Image De-raining Via Clique Recursive Feedback Mechanism](https://www.sciencedirect.com/science/article/abs/pii/S0925231220312133), _**Neurocomputing**_, 2020
 
 #### Face Hallucination
+- **K Jiang**, Z Wang, P Yi, T Lu, J Jiang, Z Xiong, [Dual-Path Deep Fusion Network for Face Image Hallucination](https://ieeexplore.ieee.org/document/9229100), _**IEEE T-NNLS**_, 2020
 - Z Wang, G Wang, B Huang, Z Xiong, Q Hong, H Wu, P Yi, **K Jiang**, N Wang, Y Pei, _et al_, [Masked Face Recognition Dataset and Application](https://arxiv.org/abs/2003.09093), _**arXiv**_, 2020
 - **K Jiang**, Z Wang, P Yi, G Wang, K Gu, J Jiang, [ATMFN: Adaptive-threshold-based Multi-model Fusion Network for Compressed Face Hallucination](https://ieeexplore.ieee.org/abstract/document/8936424), _**IEEE T-MM**_, 2020, [code](https://github.com/kuihua/ATMFN)
 
@@ -49,12 +50,12 @@ I am currently a Ph.D. at [(NERCMS)](http://en.multimedia.whu.edu.cn/html/Facult
 ****
 
 ## Services
-- PC Member/Reviewer: ICME 2020, BigMM 2020, AAAI 2021
-- Reviewer: IEEE TGRS, ACM TOMM, IEEE-CAA Journal of Automatica Sinica，IEEE Wireless Communications Magazine， Neurocomputing, IEEE SPL, GRSL
+- PC Member/Reviewer: ICME 2020-2021, BigMM 2020, AAAI 2021, IJCAI 2021
+- Reviewer: IEEE TGRS, IEEE TCYB, ACM TOMM, IEEE-CAA Journal of Automatica Sinica，IEEE Wireless Communications Magazine， Neurocomputing, IEEE SPL, GRSL
 ****
 
 ## Collaborators
-[Junjun Jiang](https://jiangjunjun.wordpress.com/) (HIT), [Chen Chen](https://ece.uncc.edu/directory/dr-chen-chen-phd) (UNC Charlotte), [Yimin Luo](https://dblp.uni-trier.de/pers/hd/l/Luo:Yimin) (King’s College London)
+[Zixiang Xiong](https://engineering.tamu.edu/electrical/profiles/zxiong.html) (HIT), [Junjun Jiang](https://jiangjunjun.wordpress.com/) (HIT), [Chen Chen](https://ece.uncc.edu/directory/dr-chen-chen-phd) (UNC Charlotte), [Yimin Luo](https://dblp.uni-trier.de/pers/hd/l/Luo:Yimin) (King’s College London)
 
 ## Referees
 [Zhongyuan Wang](https://dblp.uni-trier.de/pers/hd/w/Wang:Zhongyuan) (WHU)
