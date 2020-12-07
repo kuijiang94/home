@@ -40,7 +40,8 @@ I am currently a Ph.D. at [(NERCMS)](http://en.multimedia.whu.edu.cn/html/Facult
 - **K Jiang**, Z Wang, P Yi, G Wang, K Gu, J Jiang, [ATMFN: Adaptive-threshold-based Multi-model Fusion Network for Compressed Face Hallucination](https://ieeexplore.ieee.org/abstract/document/8936424), _**IEEE T-MM**_, 2020, [code](https://github.com/kuihua/ATMFN)
 
 #### Medical Image Processing
-- Y Luo, Toth D, **K Jiang***, K Pushparajah, R Kuberan, [Ultra-DenseNet for Low-Dose X-Ray Image Denoising in Cardiac Catheter-Based Procedures](https://link.springer.com/chapter/10.1007/978-3-030-39074-7_4), _**MICCAI**_, 2019
+- Y Luo, Sophie Majoe, **K Jiang**, H Qi, Kuberan Pushparajah, Kawal Rhode, [Ultra-Dense Denoising Network: Application to Cardiac Catheter-based X-ray Procedures](https://ieeexplore.ieee.org/document/9274535), _**IEEE T-BME**_, 2020
+- Y Luo, Daniel Toth, **K Jiang***, Kuberan Pushparajah, Kawal Rhode, [Ultra-DenseNet for Low-Dose X-Ray Image Denoising in Cardiac Catheter-Based Procedures](https://link.springer.com/chapter/10.1007/978-3-030-39074-7_4), _**MICCAI**_, 2019
 ****
 
 ## Projects
