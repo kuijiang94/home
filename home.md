@@ -41,7 +41,7 @@ I am currently a Ph.D. at [(NERCMS)](http://en.multimedia.whu.edu.cn/html/Facult
 
 #### Medical Image Processing
 - Y Luo, Sophie Majoe, **K Jiang**, H Qi, Kuberan Pushparajah, Kawal Rhode, [Ultra-Dense Denoising Network: Application to Cardiac Catheter-based X-ray Procedures](https://ieeexplore.ieee.org/document/9274535), _**IEEE T-BME**_, 2020
-- Y Luo, Daniel Toth, **K Jiang***, Kuberan Pushparajah, Kawal Rhode, [Ultra-DenseNet for Low-Dose X-Ray Image Denoising in Cardiac Catheter-Based Procedures](https://link.springer.com/chapter/10.1007/978-3-030-39074-7_4), _**MICCAI**_, 2019
+- Y Luo, Daniel Toth, **K Jiang**, Kuberan Pushparajah, Kawal Rhode, [Ultra-DenseNet for Low-Dose X-Ray Image Denoising in Cardiac Catheter-Based Procedures](https://link.springer.com/chapter/10.1007/978-3-030-39074-7_4), _**MICCAI**_, 2019
 ****
 
 ## Projects
