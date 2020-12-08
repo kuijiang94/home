@@ -18,9 +18,9 @@ I am currently a Ph.D. at [(NERCMS)](http://en.multimedia.whu.edu.cn/html/Facult
 #### Image/Video Reconstruction
 - P Yi, Z Wang, **K Jiang**, J Jiang, T Lu, J Ma, [A Progressive Fusion Generative Adversarial Network for Realistic and Consistent Video Super-Resolution](https://ieeexplore.ieee.org/document/9279273), _**IEEE T-PAMI**_, 2020, [code](https://github.com/psychopa4/MSHPFNL)
 - **K Jiang**, Z Wang, P Yi, J Jiang, [Hierarchical Dense Recursive Network for Image Super-Resolution](https://www.sci-hub.ren/10.1016/j.patcog.2020.107475), _**PR**_, 2020
+- Z Wang, **K Jiang**, P Yi, Z Han, Z He, [Ultra-dense GAN for satellite imagery super-resolution](https://www.sciencedirect.com/science/article/abs/pii/S0925231219314602), _**Neurocomputing**_, 2020
+- P Yi, Z Wang, **K Jiang**, Z Shao, J Ma, [Multi-temporal ultra dense memory network for video super-resolution](https://ieeexplore.ieee.org/abstract/document/8752034/), _**IEEE T-CSVT**_, 2020
 - P Yi, Z Wang, **K Jiang**, J Jiang, J Ma, [Progressive Fusion Video Super-Resolution Network via Exploiting Non-Local Spatio-Temporal Correlations](https://ieeexplore.ieee.org/document/9009484/), _**ICCV**_, 2019, [code](https://github.com/psychopa4/PFNL)
-- Z Wang, **K Jiang**, P Yi, Z Han, Z He, [Ultra-dense GAN for satellite imagery super-resolution](https://www.sciencedirect.com/science/article/abs/pii/S0925231219314602), _**Neurocomputing**_, 2019
-- P Yi, Z Wang, **K Jiang**, Z Shao, J Ma, [Multi-temporal ultra dense memory network for video super-resolution](https://ieeexplore.ieee.org/abstract/document/8752034/), _**IEEE T-CSVT**_, 2019
 - Gu S, Danelljan M, Timofte R, _et al_, [Aim 2019 challenge on image extreme super-resolution: Methods and results](https://ieeexplore.ieee.org/abstract/document/9022627), _**ICCV Workshop**_, 2019, _AIM 2019 challenge on extreme image super-resolution-2th_
 - Nah S, Timofte R, Gu S, _et al_, [NTIRE 2019 Challenge on Video Super-Resolution: Methods and Results](https://ieeexplore.ieee.org/document/9025527), _**CVPR Workshop**_, 2019, _NTIRE challenge on video super-resolution-5th_
 - **K Jiang**, Z Wang, P Yi, J Jiang, G Wang, Z Han, T Lu, [GAN-based multi-level mapping network for satellite imagery super-resolution](https://ieeexplore.ieee.org/abstract/document/8784713/), _**ICME**_, 2019
