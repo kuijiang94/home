@@ -32,7 +32,7 @@ I am currently a Ph.D. at [(NERCMS)](http://en.multimedia.whu.edu.cn/html/Facult
 
 #### Image Deraining
 - **K Jiang**, Z Wang, P Yi, C Chen, Z Han, T Lu, B Huang, J Jiang, [Decomposition Makes Better Rain Removal: An
-Improved Attention-guided Deraining Network](), _**IEEE T-CSVT**_, 2020, [code](https://github.com/kuihua/IADN)
+Improved Attention-guided Deraining Network](https://ieeexplore.ieee.org/document/9294056), _**IEEE T-CSVT**_, 2020, [code](https://github.com/kuihua/IADN)
 - **K Jiang**, Z Wang, P Yi, C Chen, B Huang, Y Luo, J Ma, J Jiang, [Multi-Scale Progressive Fusion Network for Single Image Deraining](https://arxiv.org/abs/2003.10985), _**CVPR**_, 2020, [code](https://github.com/kuihua/MSPFN)
 - **K Jiang**, Z Wang, P Yi, C Chen, Y Yang, X Tian, J Jiang, [Attention-Guided Deraining Network Via Stage-Wise Learning](https://ieeexplore.ieee.org/abstract/document/9053754), _**ICASSP**_, 2020
 - X Wang, J Chen, **K Jiang**, Z Han, W Ruan, Z Wang, C Liang, [Single Image De-raining Via Clique Recursive Feedback Mechanism](https://www.sciencedirect.com/science/article/abs/pii/S0925231220312133), _**Neurocomputing**_, 2020
@@ -55,7 +55,7 @@ Improved Attention-guided Deraining Network](), _**IEEE T-CSVT**_, 2020, [code](
 
 ## Services
 - SPC Member/Reviewer: ICME 2020-2021, BigMM 2020, AAAI 2021, IJCAI 2020-2021, CVPR 2021
-- Reviewer: IEEE T-AI, IEEE T-GRS, IEEE T-CYB, ACM TOMM, IEEE-CAA Journal of Automatica Sinica，IEEE Wireless Communications Magazine， Neurocomputing, IEEE SPL, GRSL
+- Reviewer: IEEE T-AI, IEEE T-GRS, IEEE T-MM, IEEE T-CYB, ACM TOMM, IEEE-CAA Journal of Automatica Sinica，IEEE Wireless Communications Magazine， Neurocomputing, IEEE SPL, GRSL
 ****
 
 ## Collaborators
