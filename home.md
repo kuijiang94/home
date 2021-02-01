@@ -31,6 +31,7 @@ I am currently a Ph.D. at [(NERCMS)](http://en.multimedia.whu.edu.cn/html/Facult
 
 
 #### Image Deraining
+- **K Jiang**, Z Wang, P Yi, C Chen, X Wang, J Jiang, Z Xiong, [Multi-level Memory Compensation Network for Rain Removal via Divide-and-Conquer Strategy](https://ieeexplore.ieee.org/document/9328295), _**IEEE JSTSP**_, 2021
 - **K Jiang**, Z Wang, P Yi, C Chen, Z Han, T Lu, B Huang, J Jiang, [Decomposition Makes Better Rain Removal: An
 Improved Attention-guided Deraining Network](https://ieeexplore.ieee.org/document/9294056), _**IEEE T-CSVT**_, 2020, [code](https://github.com/kuihua/IADN)
 - **K Jiang**, Z Wang, P Yi, C Chen, B Huang, Y Luo, J Ma, J Jiang, [Multi-Scale Progressive Fusion Network for Single Image Deraining](https://arxiv.org/abs/2003.10985), _**CVPR**_, 2020, [code](https://github.com/kuihua/MSPFN)
@@ -54,7 +55,7 @@ Improved Attention-guided Deraining Network](https://ieeexplore.ieee.org/documen
 ****
 
 ## Services
-- SPC Member/Reviewer: ICME 2020-2021, BigMM 2020, AAAI 2021, IJCAI 2020-2021, CVPR 2021
+- SPC Member/Reviewer: ICME 2020-2021, BigMM 2020, AAAI 2021, IJCAI 2020-2021, CVPR 2021, ICCV 2021
 - Reviewer: IEEE T-AI, IEEE T-GRS, IEEE T-MM, IEEE T-CYB, IEEE T-NNLS, ACM TOMM, IEEE-CAA Journal of Automatica Sinica，IEEE Wireless Communications Magazine， Neurocomputing, IEEE SPL, GRSL
 ****
 
