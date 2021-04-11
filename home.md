@@ -56,7 +56,7 @@ Improved Attention-guided Deraining Network](https://ieeexplore.ieee.org/documen
 
 ## Services
 - SPC Member/Reviewer: ICME 2020-2021, BigMM 2020, AAAI 2021, IJCAI 2020-2021, CVPR 2021, ICCV 2021
-- Reviewer: IEEE T-AI, IEEE T-GRS, IEEE T-MM, IEEE T-CYB, IEEE T-NNLS, ACM TOMM, IEEE-CAA Journal of Automatica Sinica，IEEE Wireless Communications Magazine， Neurocomputing, IEEE SPL, GRSL
+- Reviewer: IEEE T-AI, T-GRS, T-MM, T-CYB, T-NNLS, T-NNLS, T-CSVT, T-CGS, T-ETCI, ACM TOMM, IEEE-CAA Journal of Automatica Sinica，IEEE Wireless Communications Magazine
 ****
 
 ## Collaborators
