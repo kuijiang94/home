@@ -60,7 +60,7 @@ Improved Attention-guided Deraining Network](https://ieeexplore.ieee.org/documen
 ****
 
 ## Collaborators
-[Zixiang Xiong](https://engineering.tamu.edu/electrical/profiles/zxiong.html) (Texas A\&M University), [Junjun Jiang](https://jiangjunjun.wordpress.com/) (HIT), [Chen Chen](https://ece.uncc.edu/directory/dr-chen-chen-phd) (UNC Charlotte)
+[Zixiang Xiong](https://engineering.tamu.edu/electrical/profiles/zxiong.html) (Texas A\&M University), [Chia-Wen Lin ](https://dblp.uni-trier.de/pid/l/ChiaWenLin.html) (NTHU), [Junjun Jiang](https://jiangjunjun.wordpress.com/) (HIT), [Chen Chen](https://ece.uncc.edu/directory/dr-chen-chen-phd) (UNC Charlotte)
 
 ## Referees
 [Zhongyuan Wang](https://dblp.uni-trier.de/pers/hd/w/Wang:Zhongyuan) (WHU)
