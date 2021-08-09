@@ -16,6 +16,7 @@ I am currently a Ph.D. at [(NERCMS)](http://en.multimedia.whu.edu.cn/html/Facult
 ### Selected Publications (* indicates the corresponding author)
 
 #### Image/Video Reconstruction
+- P Yi, Z Wang, **K Jiang**, J Jiang, T Lu, X Tian, J Ma, [Omniscient Video Super-Resolution](https://www.researchgate.net/publication/350513351_Omniscient_Video_Super-Resolution), _**IEEE ICCV**_, 2021, [code]()
 - P Yi, Z Wang, **K Jiang**, J Jiang, T Lu, J Ma, [A Progressive Fusion Generative Adversarial Network for Realistic and Consistent Video Super-Resolution](https://ieeexplore.ieee.org/document/9279273), _**IEEE T-PAMI**_, 2020, [code](https://github.com/psychopa4/MSHPFNL)
 - **K Jiang**, Z Wang, P Yi, J Jiang, [Hierarchical Dense Recursive Network for Image Super-Resolution](https://www.sci-hub.ren/10.1016/j.patcog.2020.107475), _**PR**_, 2020
 - Z Wang, **K Jiang**, P Yi, Z Han, Z He, [Ultra-dense GAN for satellite imagery super-resolution](https://www.sciencedirect.com/science/article/abs/pii/S0925231219314602), _**Neurocomputing**_, 2020
@@ -31,6 +32,8 @@ I am currently a Ph.D. at [(NERCMS)](http://en.multimedia.whu.edu.cn/html/Facult
 
 
 #### Image Deraining
+- **K Jiang**, Z Wang, P Yi, C Chen, Z Wang, X Wang, J Jiang, C Lin, [Rain-free and Residue Hand-in-Hand: A Progressive Coupled Network for Real-Time Image Deraining](https://www.researchgate.net/publication/353620456_Rain-free_and_Residue_Hand-in-Hand_A_Progressive_Coupled_Network_for_Real-Time_Image_Deraining), _**IEEE T-IP**_, 2021
+- **K Jiang**, Z Wang, P Yi, C Chen, Z Wang, C Lin, [PCNET: PROGRESSIVE COUPLED NETWORK FOR REAL-TIME IMAGE DERAINING](https://www.researchgate.net/publication/351868487_PCNET_PROGRESSIVE_COUPLED_NETWORK_FOR_REAL-TIME_IMAGE_DERAINING), _**IEEE ICIP**_, 2021
 - **K Jiang**, Z Wang, P Yi, C Chen, X Wang, J Jiang, Z Xiong, [Multi-level Memory Compensation Network for Rain Removal via Divide-and-Conquer Strategy](https://ieeexplore.ieee.org/document/9328295), _**IEEE JSTSP**_, 2021
 - **K Jiang**, Z Wang, P Yi, C Chen, Z Han, T Lu, B Huang, J Jiang, [Decomposition Makes Better Rain Removal: An
 Improved Attention-guided Deraining Network](https://ieeexplore.ieee.org/document/9294056), _**IEEE T-CSVT**_, 2020, [code](https://github.com/kuihua/IADN)
