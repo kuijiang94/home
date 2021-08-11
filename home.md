@@ -41,7 +41,8 @@ Improved Attention-guided Deraining Network](https://ieeexplore.ieee.org/documen
 - **K Jiang**, Z Wang, P Yi, C Chen, Y Yang, X Tian, J Jiang, [Attention-Guided Deraining Network Via Stage-Wise Learning](https://ieeexplore.ieee.org/abstract/document/9053754), _**ICASSP**_, 2020
 - X Wang, J Chen, **K Jiang**, Z Han, W Ruan, Z Wang, C Liang, [Single Image De-raining Via Clique Recursive Feedback Mechanism](https://www.sciencedirect.com/science/article/abs/pii/S0925231220312133), _**Neurocomputing**_, 2020
 
-#### Face Hallucination
+#### Face
+- G Wang, Z Wang, **K Jiang**, B Huang, Z He, R Hu, [Silicone mask face anti-spoofing detection based on visual saliency and facial motion](https://www.sciencedirect.com/science/article/abs/pii/S0925231221009371), _**Neurocomputing**_, 2021
 - **K Jiang**, Z Wang, P Yi, T Lu, J Jiang, Z Xiong, [Dual-Path Deep Fusion Network for Face Image Hallucination](https://ieeexplore.ieee.org/document/9229100), _**IEEE T-NNLS**_, 2020
 - Z Wang, G Wang, B Huang, Z Xiong, Q Hong, H Wu, P Yi, **K Jiang**, N Wang, Y Pei, _et al_, [Masked Face Recognition Dataset and Application](https://arxiv.org/abs/2003.09093), _**arXiv**_, 2020
 - **K Jiang**, Z Wang, P Yi, G Wang, K Gu, J Jiang, [ATMFN: Adaptive-threshold-based Multi-model Fusion Network for Compressed Face Hallucination](https://ieeexplore.ieee.org/abstract/document/8936424), _**IEEE T-MM**_, 2020, [code](https://github.com/kuihua/ATMFN)
@@ -49,6 +50,10 @@ Improved Attention-guided Deraining Network](https://ieeexplore.ieee.org/documen
 #### Medical Image Processing
 - Y Luo, Sophie Majoe, **K Jiang**, H Qi, Kuberan Pushparajah, Kawal Rhode, [Ultra-Dense Denoising Network: Application to Cardiac Catheter-based X-ray Procedures](https://ieeexplore.ieee.org/document/9274535), _**IEEE T-BME**_, 2020
 - Y Luo, Daniel Toth, **K Jiang**, Kuberan Pushparajah, Kawal Rhode, [Ultra-DenseNet for Low-Dose X-Ray Image Denoising in Cardiac Catheter-Based Procedures](https://link.springer.com/chapter/10.1007/978-3-030-39074-7_4), _**MICCAI 2019 STACOM**_, 2019
+
+#### Others
+- X Zhong, S Zhao, X Wang*, **K Jiang**, W Liu, W Huang, Z Wang, [Unsupervised Vehicle search in the Wild: A New Benchmark](), _**ACM MM**_, 2021
+- G Wang, Z Wang, K Gu, **K Jiang**, Z He, [Reference-free DIBR-synthesized Video Quality Metric in Spatial and Temporal Domains](https://ieeexplore.ieee.org/abstract/document/9408663/), _**IEEE T-CSVT**_, 2021
 ****
 
 ## Projects
@@ -59,7 +64,7 @@ Improved Attention-guided Deraining Network](https://ieeexplore.ieee.org/documen
 
 ## Services
 - SPC Member/Reviewer: ICME 2020-2021, BigMM 2020, AAAI 2021, IJCAI 2020-2021, CVPR 2021, ICCV 2021
-- Reviewer: IEEE T-AI, T-GRS, T-MM, T-CYB, T-NNLS, T-CDS, T-CSVT, T-ETCI, ACM TOMM, IEEE-CAA Journal of Automatica Sinica，IEEE Wireless Communications Magazine
+- Reviewer: IEEE T-AI, T-GRS, T-MM, T-CYB, T-NNLS, T-CDS, T-CSVT, T-ETCI, T-BD, ACM TOMM, IEEE-CAA Journal of Automatica Sinica，IEEE Wireless Communications Magazine
 ****
 
 ## Collaborators
