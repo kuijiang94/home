@@ -2,7 +2,7 @@
 
 KuiJiang (江奎)/[(NERCMS)](http://en.multimedia.whu.edu.cn/html/Faculties/), Wuhan University
 
-<a href="url"><img src="https://github.com/kuihua/kuijiang.github.io/blob/master/2白.jpg" align="left" height="250" width="250" ></a>
+<a href="url"><img src="https://github.com/kuihua/kuijiang.github.io/blob/master/2白.jpg" align="left" height="250" width="170" ></a>
 
 [Google Scholar](https://scholar.google.com/citations?user=AbOLE9QAAAAJ&hl=zh-CN)
 
