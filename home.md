@@ -10,7 +10,7 @@ kuijiang@whu.edu.cn / kuijiang_1994@163.com
 
 [National Engineering Research Center for Multimedia Software (NERCMS)](http://en.multimedia.whu.edu.cn/html/Faculties/), Wuhan University, Luojia Hill, Wuchang District, Wuhan 430072, Hubei, China 
 
-I am currently a Ph.D. at [(NERCMS)](http://en.multimedia.whu.edu.cn/html/Faculties/), Wuhan University, Wuhan, China. In Jun. 2019, I received my M.S. at National Engineering Research Center for Multimedia Software (NERCMS), Wuhan University, under the supervision of Prof. Zhongyuan Wang. My research interests focus on image/video reconstruction, image deraining, and face hallucination.
+I have graduated from the [(NERCMS)](http://en.multimedia.whu.edu.cn/html/Faculties/), school of computer science, Wuhan University in June 2019 with a master's degree in computer technology and in June 2022 with a Ph.D degree in computer science and technology. I am currently a Senior Engineer at the Cloud BU, Huawei, China. My research interests focus on image/video reconstruction, image deraining/dehazing, low-light enhancement, and face hallucination.
 ****
 
 ### Selected Publications (* indicates the corresponding author)
