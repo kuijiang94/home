@@ -36,6 +36,7 @@ I have graduated from the [(NERCMS)](http://en.multimedia.whu.edu.cn/html/Facult
 
 
 #### Image Deraining, Dehazing & Low-light Enhancement
+- X Zhong, S Tu, X Ma, **K Jiang**, W Huang, Z Wang, [Rainy WCity: A Real Rainfall Dataset with Diverse Conditions for Semantic Driving Scene Understanding](https://www.ijcai.org/proceedings/2022/0243.pdf), _**IJCAI**_, 2022
 - X Chen, J Pan, **K Jiang**, Y Li, Y Huang, C Kong, L Dai, [Unpaired Deep Image Deraining Using Dual Contrastive Learning](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_Unpaired_Deep_Image_Deraining_Using_Dual_Contrastive_Learning_CVPR_2022_paper.html), _**IEEE CVPR**_, 2022
 - **K Jiang**, Z Wang, C Chen, P Yi, T Lu, C Lin, [Degrade is Upgrade: Learning Degradation for Low-light Image Enhancement](https://ojs.aaai.org/index.php/AAAI/article/view/19992), _**AAAI**_, 2022
 - **K Jiang**, Z Wang, C Chen, Z Wang, L Cui, C Lin, [Magic ELF: Image Deraining Meets Association Learning and Transformer](https://arxiv.org/abs/2207.10455), _**ACMMM**_, 2022
