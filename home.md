@@ -16,9 +16,9 @@ I have graduated from the [(NERCMS)](http://en.multimedia.whu.edu.cn/html/Facult
 ### Selected Publications (* indicates the corresponding author)
 
 #### Image/Video Reconstruction
-- M Hu, **K Jiang**, L Liao, Z Nie, J Xiao, Z Wang, [Progressive spatial-temporal collaborative network for video frame interpolation](https://dl.acm.org/doi/abs/10.1145/3503161.3547875?casa_token=5gnk5IzQOBUAAAAA:W6yIq2lA6140njNCf99p6MG-acQ-r5kwq1d9qLhayjcwuZsms7idGqCC3VqY5NFEYtVO64p2tlz_), _**ACM MM**_, 2022, [code]() 
-- M Hu, **K Jiang**, Z Nie, Z Wang, [You Only Align Once: Bidirectional Interaction for Spatial-Temporal Video Super-Resolution](https://dl.acm.org/doi/abs/10.1145/3503161.3547874?casa_token=YH3V2tLmp-oAAAAA:JWsQ8ggvHGmyCjExyEUW-n6H96qDCLwnAm9zFOJm1Z4aPu3wG5umiFg7sw8iSFVt-QRdkYIUl2zO), _**ACM MM**_, 2022, [code]()
-- M Hu, **K Jiang**, L Liao, J Xiao, J Jiang, Z Wang, [Spatial-Temporal Space Hand-in-Hand: Spatial-Temporal Video Super-Resolution via Cycle-Projected Mutual Learning](https://openaccess.thecvf.com/content/CVPR2022/html/Hu_Spatial-Temporal_Space_Hand-in-Hand_Spatial-Temporal_Video_Super-Resolution_via_Cycle-Projected_Mutual_Learning_CVPR_2022_paper.html), _**IEEE CVPR**_, 2022, [code]()
+- M Hu, **K Jiang**, L Liao, Z Nie, J Xiao, Z Wang, [Progressive spatial-temporal collaborative network for video frame interpolation](https://dl.acm.org/doi/abs/10.1145/3503161.3547875?casa_token=5gnk5IzQOBUAAAAA:W6yIq2lA6140njNCf99p6MG-acQ-r5kwq1d9qLhayjcwuZsms7idGqCC3VqY5NFEYtVO64p2tlz_), _**ACM MM**_, 2022, [code]()(Co-first author)
+- M Hu, **K Jiang**, Z Nie, Z Wang, [You Only Align Once: Bidirectional Interaction for Spatial-Temporal Video Super-Resolution](https://dl.acm.org/doi/abs/10.1145/3503161.3547874?casa_token=YH3V2tLmp-oAAAAA:JWsQ8ggvHGmyCjExyEUW-n6H96qDCLwnAm9zFOJm1Z4aPu3wG5umiFg7sw8iSFVt-QRdkYIUl2zO), _**ACM MM**_, 2022, [code]()(Co-first author)
+- M Hu, **K Jiang**, L Liao, J Xiao, J Jiang, Z Wang, [Spatial-Temporal Space Hand-in-Hand: Spatial-Temporal Video Super-Resolution via Cycle-Projected Mutual Learning](https://openaccess.thecvf.com/content/CVPR2022/html/Hu_Spatial-Temporal_Space_Hand-in-Hand_Spatial-Temporal_Video_Super-Resolution_via_Cycle-Projected_Mutual_Learning_CVPR_2022_paper.html), _**IEEE CVPR**_, 2022, [code]()(Co-first author)
 - P Yi, Z Wang, **K Jiang**, J Jiang, T Lu, X Tian, J Ma, [Omniscient Video Super-Resolution](https://www.researchgate.net/publication/350513351_Omniscient_Video_Super-Resolution), _**IEEE ICCV**_, 2021, [code]()
 - P Yi, Z Wang, **K Jiang**, J Jiang, T Lu, J Ma, [A Progressive Fusion Generative Adversarial Network for Realistic and Consistent Video Super-Resolution](https://ieeexplore.ieee.org/document/9279273), _**IEEE T-PAMI**_, 2020, [code](https://github.com/psychopa4/MSHPFNL)
 - **K Jiang**, Z Wang, P Yi, J Jiang, [Hierarchical Dense Recursive Network for Image Super-Resolution](https://www.sci-hub.ren/10.1016/j.patcog.2020.107475), _**PR**_, 2020
@@ -35,6 +35,7 @@ I have graduated from the [(NERCMS)](http://en.multimedia.whu.edu.cn/html/Facult
 
 
 #### Image Deraining, Dehazing & Low-light Enhancement
+- **K Jiang**, Z Wang, C Chen, Z Wang, L Cui, C Lin, [Magic ELF: Image Deraining Meets Association Learning and Transformer](https://arxiv.org/abs/2207.10455), _**ACMMM**_, 2022
 - **K Jiang**, Z Wang, C Chen, Z Wang, L Cui, C Lin, [Magic ELF: Image Deraining Meets Association Learning and Transformer](https://arxiv.org/abs/2207.10455), _**ACMMM**_, 2022
 - **K Jiang**, Z Wang, Z Wang, P Yi, J Jiang, J Xiao, C Lin, [DANet: Image Deraining via Dynamic Association Learning](https://web.archive.org/web/20220720135059id_/https://www.ijcai.org/proceedings/2022/0137.pdf), _**IJCAI**_, 2022
 - **K Jiang**, Z Wang, P Yi, C Chen, Z Wang, X Wang, J Jiang, C Lin, [Rain-free and Residue Hand-in-Hand: A Progressive Coupled Network for Real-Time Image Deraining](https://www.researchgate.net/publication/353620456_Rain-free_and_Residue_Hand-in-Hand_A_Progressive_Coupled_Network_for_Real-Time_Image_Deraining), _**IEEE T-IP**_, 2021
